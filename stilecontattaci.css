@@ -1,10 +1,14 @@
 body {
-    background-color: #2e6b3f;
+    background-color: #cd7816;
   }
   
 h1 {
     color: white;
     text-align: center;
+  }
+  h2 {
+    color: white;
+    
   }
  
 .horizontal-menu {
